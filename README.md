@@ -1,59 +1,62 @@
-# Hey, I'm Anuj Ugale 👋
+# Hi, I'm Anuj Ugale
 
-### AI & Data Science Student | Developer | Problem Solver
+**AI Application Development | Frontend Development | Generative AI**
 
-I'm a second-year student at **MIT World Peace University (MIT-WPU), Pune**, exploring the world of Artificial Intelligence, Data Science, and software development.
+I'm a second-year Diploma student in **Computer Science / AI and Data Science at MIT-WPU, Pune**, following a diploma-to-degree integrated pathway.
 
-I enjoy learning by building, experimenting with new technologies, and working on projects that solve real-world problems.
+I'm interested in building useful applications by combining frontend development, AI-powered features, and thoughtful UI/UX design. I enjoy exploring new technologies, experimenting with ideas, and using AI-assisted tools to turn concepts into working prototypes.
 
-- 🎓 Pursuing AI & Data Science
-- 🤖 Exploring AI, Machine Learning, and Data Science
-- 💻 Learning Python, SQL, C, and web development
-- 🚀 Building practical projects with real-world applications
-- 🌱 Always learning, experimenting, and improving
+## About Me
+
+- Interested in Generative AI, Agentic AI, and AI-powered applications.
+- Enjoy building web interfaces and exploring UI/UX design.
+- Developing practical projects while strengthening my programming fundamentals.
+- Exploring AI-assisted workflows for research, coding, debugging, and prototyping.
+- Continuously learning through coursework, experimentation, and hands-on projects.
+
+## Technical Skills
+
+**Programming:** Python, C — foundational knowledge
+
+**Frontend Development:** HTML, CSS, JavaScript, React — practical exploration and ongoing learning
+
+**Backend & Databases:** FastAPI, SQL, PostgreSQL — explored through development work
+
+**AI-Assisted Development:** GitHub Copilot, Claude Code, Google Antigravity
+
+**Research & Productivity:** NotebookLM, Julius AI
+
+I use these tools to support my learning and development process while continuing to improve my understanding of the underlying technologies.
+
+## Projects in Progress
+
+### RetiPath-AI
+An AI-assisted retinal screening and triage concept focused on supporting preliminary assessment and prioritization of cases.
+This project made us to come in TOP 100 teams in Smart India Hackathon 2026 and is still under development
+
+### NeuraFace Studio
+A face identification and enrollment application featuring camera-based interaction and identification workflows.
+
+### OhMyPoly
+A student attendance-analysis application focused on exploring attendance data and presenting useful insights.
+
+These projects are at different stages of development. I am working on improving their functionality and user experience while preparing selected work for public release.
+
+## Currently Learning
+
+- Generative AI and Agentic AI workflows
+- Frontend development and UI/UX design
+- Python and software development fundamentals
+- Data analysis and structured data handling
+- Effective and responsible AI-assisted development
+
+## Connect With Me
+
+- **GitHub:** [anujugale5889](https://github.com/anujugale5889)
+- **LinkedIn:** [Anuj Ugale](https://www.linkedin.com/in/aanujugale56)
+
+I'm open to learning opportunities, meaningful collaborations, and opportunities related to AI-powered applications and frontend development.
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages:** Python · C · SQL · R
-
-**Areas of Interest:** Artificial Intelligence · Machine Learning · Data Science · Web Development · Problem Solving
-
-**Tools:** Git · GitHub · VS Code
-
----
-
-### 🚀 Projects I'm Working On
-
-- **RetiPath-AI** — An AI-powered retinal screening and triage platform designed to support diabetic retinopathy detection.
-- **MPLOYD** — A platform concept focused on connecting local skilled workers and job seekers with relevant opportunities.
-- **Academic Practicals** — Hands-on implementations of DBMS, data structures, programming, and other coursework.
-
----
-
-### 📚 Currently Learning
-
-- Python programming and data structures
-- Database management and SQL
-- Statistical modelling using R
-- AI/ML concepts and practical implementation
-- Full-stack development
-
----
-
-### 📊 A Little More About Me
-
-- 💡 I believe in learning by doing.
-- 🧩 I enjoy breaking down problems and finding practical solutions.
-- 🤝 I value teamwork, collaboration, and continuous improvement.
-- 🎯 My goal is to grow into an AI Engineer and build technology that makes a meaningful difference.
-
----
-
-### 🤝 Let's Connect
-
-I'm always open to learning, collaborating on interesting projects, and connecting with fellow developers.
-
-**Thanks for stopping by!** ⭐ Feel free to explore my repositories and follow my journey as I build and learn.
-
+*Learning, building, and improving one project at a time.*
